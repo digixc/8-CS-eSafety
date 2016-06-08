@@ -1,0 +1,233 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: ESafety2
+#+AUTHOR: Paul Dougall
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/stpd11/8-CS-ESafety2">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* I am the law!
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Cyber crime is estimated to cost the world 445 billion dollars a year.
+[[./img/cybercrime.jpg]]
+
+- In the UK we have three main laws to protect us:
+  - Computer Misuse Act (1990)
+  - Data Protection Act (1998)
+  - Copyright, Designs and Patents Act (1988) 
+* Computer Misuse Act
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+Read this [[http://www.wisegeek.org/what-is-the-computer-misuse-act-of-1990.htm][article
+]]
+- Open a text document and answer the following questions:
+- Why was the act needed? 
+- What are the four sections?
+- What are the problems with the Act?
+- Save this document as you will need it later for the badge tasks.
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Pick three cases from [[http://www.computerevidence.co.uk/Cases/CMA.htm][here]] to read and write down what part of the act was broken in each case.
+- Try to pick one from each of the three sections.
+- Also read how the stories are portrayed in the different media outlets.  
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+- Time to test your knowledge. Go [[http://www.proprofs.com/quiz-school/story.php?title%3Dcomputer-misuse-act][here]]
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Screenshot your success result, more than 50%, for the silver badge. 
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Look at the scenarios below: 
+- If you were a network manager at a school, would you report the matter to the police? Which parts, if any, of the Computer Misuse Act 1990 have been broken? Explain fully.
+   - A student, without permission, comes into school during the holidays and logs on to the network using another student’s password. She surfs the internet for an hour and then logs off.
+   - A student writes and sends a simple virus that will send hundreds of emails from the account of anyone who receives it. 
+   - A student sits down at a workstation, and finds that the last user has not logged off after ordering goods from amazon.co.uk. The student places an order, using the credit card number that is still onscreen, but changes the delivery address to his or her own.
+   - A student hacks into the school computer network from home. Using the Management Information system, the student changes their own personal details, and those of a friend.
+- Add you thoughts on each case to your answers for the CMA work.
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Computer users, who carefully lock their front door when they leave home, are often not as careful when it comes to using computers. 
+- What advice would you give to a new computer user about: user names and passwords, credit card details, cookies, logging on and logging off?
+* Data Protection Act
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Watch the video
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vHvd6HaPq_s" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+- Under the heading 'DPA', answer the following questions:
+    - What is personal data?
+    - What are the five parts of data processing?
+    - How decides how this data is process?
+    - What is the living person who the data relates to?
+    - What is sensitive personal data? Give some examples.
+    - What are the principles of the Act?
+    - What are her rights? 
+    
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Look through this [[http://www.techworld.com/security/uks-11-most-infamous-data-breaches-2015-3604586/][article]] and complete the table below with 5 examples.
+| *Company involved* | *Number of records* | *Consequences* |
+|                    |                     |                |
+
+** Badge It- Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Upload your answers to the questions, thoughts on case studies and your completed table for the gold badge.
+* Copyright, Design and Patents Act
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- How many of the following have you done?
+    - Copying a computer game from a friend
+    - Downloading some music from the web
+    - Copying text from a website and pasted it into your own work
+- Come on, if we tell the truth, I bet we have all done these things. 
+
+ *But does it really matter?*
+- It is estimated that almost 40% of software is copied. In some countries it is over 90%!
+- This has a huge impact on the software industry.
+- The 2011 Business Software Alliance Piracy Study Standard, estimates the total commercial value of illegally copied software to be at $59 billion in 2010.
+- By just cutting the software piracy rate from 40% to 30% would result in an extra 40,000 jobs in the IT sector and an extra £2.5 billion in tax revenues.
+- The extra revenue that software companies would receive would mean that they could reinvest more into new products such as games and apps.
+- It’s estimated, in fact, that people breaking the law and downloading copyrighted music costs the industry something like £8.5 billion a year – and loses £1.5 billion for the VAT man.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+Using this [[https://www.bl.uk/business-and-ip-centre/articles/what-is-copyright][website]], make a document to explain what is copyright, why we need it, how long it lasts for and what are the exceptions?
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Watch the video to see the history of copyright and some of the downsides of it
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tk862BbjWx4" frameborder="0" allowfullscreen></iframe> 
+#+END_HTML
+** Badge It- Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- What is Copyleft?
+- Why is it called Copyleft?
+- When was it started?
+- What are the four freedoms?
+- Do you think it is good idea?
+- What is Creative Commons?
+Upload your findings for the platinum badge
