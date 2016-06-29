@@ -11,7 +11,7 @@
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/MarcScott/7-CS-ESafety">Fork me on GitHub</a>
+      <a href="https://github.com/stpd11/8-CS-ESafety2">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -103,37 +103,36 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
-*Answer the following questions in a text editor such as Word:*
+Answer the following questions in a text editor such as Word:
 - How good is your current password? Firstly, is it in the most common passwords [[http://www.telegraph.co.uk/technology/2016/01/26/most-common-passwords-revealed---and-theyre-ridiculously-easy-to/][here]]?
 - Secondly, test the strength of your password by using the online password [[https://howsecureismypassword.net][checker.]]
 - Write down how long it would take to break. 
 - Now we are going to try to improve that by reading the above article and watching the video below:
+
 #+BEGIN_HTML
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8SQo3R7qeU" frameborder="0" allowfullscreen></iframe>
 #+END_HTML 
-- What does the article/ video/online checker suggest we do to make our passwords stronger? 
+
+- What does the article/ video suggest we do to make our passwords stronger? 
 - What in the future are we going to replace passwords with?
 - What five tips would you give to someone to making a new secure password? Write them down!
 ** Document It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: document
 :END:
-- In your document say how you have improved your password security i.e how long did it take to break at the start and now with your new password. 
+- In your document say how you have improved your password security
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- We have improved our password, at this point feel free to change your network password, now  we need to protect it from us!
 - Look for examples of people being tricked. This article is a good [[http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411][starting]] point.
-- The video on this [[http://www.phonearena.com/news/Watch-as-people-are-tricked-into-giving-up-their-passwords_id64905][page]] is good too!
-- Think of tips to help us not being deceived into giving out of details.
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- You should already have answered the above questions in full sentences which shows your strength of password at the start of the lesson and then new stronger version. 
-- You should have written a 'top 5 tips' on choosing a password.
-- Finally from reading the two articles, including the video, write a sentence or two on how to avoid being tricked.
+- You should already have answered the above questions in full sentences. 
+- You should have written a 'top 5 tips'
+- Finally from erading the final article write a paragraph on how to avoid being tricked.
 * Malware and Security
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -202,4 +201,4 @@ http://www.bbc.co.uk/bitesize/quiz/q81836819
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- You have been tasked with coming up with advice for Year 7s. Make a single document that could be given to students to inform them of how to be reponsible online.
+- You have been tasked with coming up with advice for Year 7s. Make fun document, poster or presentation, that could be given to students to inform them of how to be reponsible online.
