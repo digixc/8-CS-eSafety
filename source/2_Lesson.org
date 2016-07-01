@@ -202,4 +202,4 @@ http://www.bbc.co.uk/bitesize/quiz/q81836819
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- You have been tasked with coming up with advice for Year 7s. Make a single document that could be given to students to inform them of how to be reponsible online.
+- You have been tasked with coming up with advice for Year 7s. Make a fun document, poster or presentation, that could be given to students to inform them of how to be reponsible online.
