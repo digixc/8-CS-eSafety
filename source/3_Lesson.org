@@ -114,7 +114,7 @@ Read this [[http://www.wisegeek.org/what-is-the-computer-misuse-act-of-1990.htm]
 ]]
 - Open a text document and answer the following questions:
 - Why was the act needed? 
-- What are the four sections?
+- What are the three sections?
 - What are the problems with the Act?
 - Save this document as you will need it later for the badge tasks.
 
@@ -167,7 +167,7 @@ Read this [[http://www.wisegeek.org/what-is-the-computer-misuse-act-of-1990.htm]
 - Under the heading 'DPA', answer the following questions:
     - What is personal data?
     - What are the five parts of data processing?
-    - How decides how this data is process?
+    - Who decides how this data is processed?
     - What is the living person who the data relates to?
     - What is sensitive personal data? Give some examples.
     - What are the principles of the Act?
