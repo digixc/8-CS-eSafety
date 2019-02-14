@@ -129,7 +129,7 @@ Read this [[http://www.wisegeek.org/what-is-the-computer-misuse-act-of-1990.htm]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: test
 :END:
-- Time to test your knowledge. Go [[https://quizizz.com/admin/quiz/5a9c7c87045147001add49ca/computer-misuse-act-1990][here]].  Please ignore signing up requests.
+- Time to test your knowledge by clicking on the Start button on this link [[https://www.proprofs.com/quiz-school/quizshow.php?title=computer-misuse-act&q=1][here]] 
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
